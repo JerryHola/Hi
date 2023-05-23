@@ -1,0 +1,18 @@
+body{
+    text-align:center ;
+
+
+}
+.line{
+    height:10px ;
+    background-color: rgb(251, 255, 0);
+    width: 1000px;
+    margin:8px auto ;
+
+}
+#apps{
+    background-color: rgb(255, 0, 0);
+}
+#my_carousel{
+    background-color: blue;
+}
